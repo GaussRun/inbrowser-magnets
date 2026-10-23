@@ -19,15 +19,15 @@ Source, tests and the publisher script live in a separate repository. The posts 
 
 A small blog made only of such posts: an index and 7 posts with images, every page loaded through the same hash-verified race. Open the index and click through; the footer of every page names the host that answered first.
 
-- entry link: https://mulihost.0rs.org/@gaussrun/magnet-notes#v1.11857d7ebf52e996b4646d59bb16673187014b2a65fa02ad6ca39fcf07f5567d.5cedf17233b099062a5c68724d24b0a42fe5be22c779553debd23fc3f06a42e4.g:GaussRun/inbrowser-magnets~o:mulihost.0rs.org
+- entry link: https://mulihost.0rs.org/@gaussrun/magnet-notes#v1.58367710dcbb6891071f9133332a8624b44e8c55b351efff700666f79bb31f52.5cedf17233b099062a5c68724d24b0a42fe5be22c779553debd23fc3f06a42e4.g:GaussRun/inbrowser-magnets~o:mulihost.0rs.org~a:423TCsA0Qx05hM_Qq7r1qqxV5QutpSztzdgr8Dda35Q
 
-- Arweave free tier limits (8276 bytes, sha256 `f8041baad05bbff69e815751e7a731312febe4c3d2e26fe51ff112e2058b1644`): null
-- Blossom servers that take text (8195 bytes, sha256 `b1ab521491a8fd506c27dd599d41862604873e761eed31525d9f6a0b7e7dbb16`): null
-- What we measured about browser DNS failover (12148 bytes, sha256 `cc1b13450bb6b0338d89018eba9a3a5e5d6940a1a1305d361f0d0e8ef84f9039`): null
-- Why IPFS is last (8876 bytes, sha256 `a60b5f550507b99fcc58688870bb6562e45f9329da5c8fa933c08bc584e6b55f`): null
-- How the link format works (10981 bytes, sha256 `5b9263cbfcc93c7222b1459a781f871e335adf7444e2ddf21c4e4dded1ee2de5`): null
-- Nostr relays and the 64 KB limit (8917 bytes, sha256 `ba49920232c357ae703feee8e049a1b07cbc391487c3bb5bf7b6dfefe9362aa9`): null
-- Why one https link cannot survive its host (7718 bytes, sha256 `bd1a16da7322254332a1bf541f3024267347635aa059c56533ef7ccb56cbfff2`): null
+- Arweave free tier limits (8276 bytes, sha256 `f8041baad05bbff69e815751e7a731312febe4c3d2e26fe51ff112e2058b1644`): https://mulihost.0rs.org/@gaussrun/magnet-notes#v1.f8041baad05bbff69e815751e7a731312febe4c3d2e26fe51ff112e2058b1644.5cedf17233b099062a5c68724d24b0a42fe5be22c779553debd23fc3f06a42e4.g:GaussRun/inbrowser-magnets~o:mulihost.0rs.org~a:lXo2emGJA5UiTt-XviZVznEGRtJBTOIZtnnCSHMQFeI~i:58367710dcbb6891071f9133332a8624b44e8c55b351efff700666f79bb31f52
+- Blossom servers that take text (8195 bytes, sha256 `b1ab521491a8fd506c27dd599d41862604873e761eed31525d9f6a0b7e7dbb16`): https://mulihost.0rs.org/@gaussrun/magnet-notes#v1.b1ab521491a8fd506c27dd599d41862604873e761eed31525d9f6a0b7e7dbb16.5cedf17233b099062a5c68724d24b0a42fe5be22c779553debd23fc3f06a42e4.g:GaussRun/inbrowser-magnets~o:mulihost.0rs.org~a:v5p8HjgpaL_cUV04FUejy2ZkaH1MqbmLpx_9VwD34Nc~i:58367710dcbb6891071f9133332a8624b44e8c55b351efff700666f79bb31f52
+- What we measured about browser DNS failover (12148 bytes, sha256 `cc1b13450bb6b0338d89018eba9a3a5e5d6940a1a1305d361f0d0e8ef84f9039`): https://mulihost.0rs.org/@gaussrun/magnet-notes#v1.cc1b13450bb6b0338d89018eba9a3a5e5d6940a1a1305d361f0d0e8ef84f9039.5cedf17233b099062a5c68724d24b0a42fe5be22c779553debd23fc3f06a42e4.g:GaussRun/inbrowser-magnets~o:mulihost.0rs.org~a:wORW4SjjOS9msz1kbg7GfdggSb8gEz0u1UL6q3-bT4I~i:58367710dcbb6891071f9133332a8624b44e8c55b351efff700666f79bb31f52
+- Why IPFS is last (8876 bytes, sha256 `a60b5f550507b99fcc58688870bb6562e45f9329da5c8fa933c08bc584e6b55f`): https://mulihost.0rs.org/@gaussrun/magnet-notes#v1.a60b5f550507b99fcc58688870bb6562e45f9329da5c8fa933c08bc584e6b55f.5cedf17233b099062a5c68724d24b0a42fe5be22c779553debd23fc3f06a42e4.g:GaussRun/inbrowser-magnets~o:mulihost.0rs.org~a:wRrlHblLG0ItD-H2CX3tTvZSJkn4Yd_5t5uBk-eMiVI~i:58367710dcbb6891071f9133332a8624b44e8c55b351efff700666f79bb31f52
+- How the link format works (10981 bytes, sha256 `5b9263cbfcc93c7222b1459a781f871e335adf7444e2ddf21c4e4dded1ee2de5`): https://mulihost.0rs.org/@gaussrun/magnet-notes#v1.5b9263cbfcc93c7222b1459a781f871e335adf7444e2ddf21c4e4dded1ee2de5.5cedf17233b099062a5c68724d24b0a42fe5be22c779553debd23fc3f06a42e4.g:GaussRun/inbrowser-magnets~o:mulihost.0rs.org~a:JTejynd8YtaOhEmvUpvvm_EjZC855OnBS3JC7GMA9ho~i:58367710dcbb6891071f9133332a8624b44e8c55b351efff700666f79bb31f52
+- Nostr relays and the 64 KB limit (8917 bytes, sha256 `ba49920232c357ae703feee8e049a1b07cbc391487c3bb5bf7b6dfefe9362aa9`): https://mulihost.0rs.org/@gaussrun/magnet-notes#v1.ba49920232c357ae703feee8e049a1b07cbc391487c3bb5bf7b6dfefe9362aa9.5cedf17233b099062a5c68724d24b0a42fe5be22c779553debd23fc3f06a42e4.g:GaussRun/inbrowser-magnets~o:mulihost.0rs.org~a:RDBCngEwz5dEII1lwcOjtzulU20CuDkPCcNAxb3B4K0~i:58367710dcbb6891071f9133332a8624b44e8c55b351efff700666f79bb31f52
+- Why one https link cannot survive its host (7718 bytes, sha256 `bd1a16da7322254332a1bf541f3024267347635aa059c56533ef7ccb56cbfff2`): https://mulihost.0rs.org/@gaussrun/magnet-notes#v1.bd1a16da7322254332a1bf541f3024267347635aa059c56533ef7ccb56cbfff2.5cedf17233b099062a5c68724d24b0a42fe5be22c779553debd23fc3f06a42e4.g:GaussRun/inbrowser-magnets~o:mulihost.0rs.org~a:Lnl7IK9wRR2qRWxJkTOQvbCBzWmJa9nNMAO70qTz7Fs~i:58367710dcbb6891071f9133332a8624b44e8c55b351efff700666f79bb31f52
 
 Posts link to each other by hash, so the link graph is acyclic: the index links to every post and no post contains the index hash. The reader carries the index hash in the link (`i:` hint) so each page can link back. Editing a post changes its hash and therefore the index and every later post that links to it; the build is `scripts/build-blog.mjs` in the source repository.
 
@@ -98,6 +98,7 @@ Posts link to each other by hash, so the link graph is acyclic: the index links 
 - jsDelivr: https://cdn.jsdelivr.net/gh/GaussRun/inbrowser-magnets@main/h/f8041baad05bbff69e815751e7a731312febe4c3d2e26fe51ff112e2058b1644.md
 - Statically: https://cdn.statically.io/gh/GaussRun/inbrowser-magnets/main/h/f8041baad05bbff69e815751e7a731312febe4c3d2e26fe51ff112e2058b1644.md
 - Arweave: https://arweave.net/raw/lXo2emGJA5UiTt-XviZVznEGRtJBTOIZtnnCSHMQFeI
+- reader link: https://mulihost.0rs.org/@gaussrun/magnet-notes#v1.f8041baad05bbff69e815751e7a731312febe4c3d2e26fe51ff112e2058b1644.5cedf17233b099062a5c68724d24b0a42fe5be22c779553debd23fc3f06a42e4.g:GaussRun/inbrowser-magnets~o:mulihost.0rs.org~a:lXo2emGJA5UiTt-XviZVznEGRtJBTOIZtnnCSHMQFeI~i:58367710dcbb6891071f9133332a8624b44e8c55b351efff700666f79bb31f52
 
 ### Blossom servers that take text
 
@@ -111,6 +112,7 @@ Posts link to each other by hash, so the link graph is acyclic: the index links 
 - jsDelivr: https://cdn.jsdelivr.net/gh/GaussRun/inbrowser-magnets@main/h/b1ab521491a8fd506c27dd599d41862604873e761eed31525d9f6a0b7e7dbb16.md
 - Statically: https://cdn.statically.io/gh/GaussRun/inbrowser-magnets/main/h/b1ab521491a8fd506c27dd599d41862604873e761eed31525d9f6a0b7e7dbb16.md
 - Arweave: https://arweave.net/raw/v5p8HjgpaL_cUV04FUejy2ZkaH1MqbmLpx_9VwD34Nc
+- reader link: https://mulihost.0rs.org/@gaussrun/magnet-notes#v1.b1ab521491a8fd506c27dd599d41862604873e761eed31525d9f6a0b7e7dbb16.5cedf17233b099062a5c68724d24b0a42fe5be22c779553debd23fc3f06a42e4.g:GaussRun/inbrowser-magnets~o:mulihost.0rs.org~a:v5p8HjgpaL_cUV04FUejy2ZkaH1MqbmLpx_9VwD34Nc~i:58367710dcbb6891071f9133332a8624b44e8c55b351efff700666f79bb31f52
 
 ### What we measured about browser DNS failover
 
@@ -124,6 +126,7 @@ Posts link to each other by hash, so the link graph is acyclic: the index links 
 - jsDelivr: https://cdn.jsdelivr.net/gh/GaussRun/inbrowser-magnets@main/h/cc1b13450bb6b0338d89018eba9a3a5e5d6940a1a1305d361f0d0e8ef84f9039.md
 - Statically: https://cdn.statically.io/gh/GaussRun/inbrowser-magnets/main/h/cc1b13450bb6b0338d89018eba9a3a5e5d6940a1a1305d361f0d0e8ef84f9039.md
 - Arweave: https://arweave.net/raw/wORW4SjjOS9msz1kbg7GfdggSb8gEz0u1UL6q3-bT4I
+- reader link: https://mulihost.0rs.org/@gaussrun/magnet-notes#v1.cc1b13450bb6b0338d89018eba9a3a5e5d6940a1a1305d361f0d0e8ef84f9039.5cedf17233b099062a5c68724d24b0a42fe5be22c779553debd23fc3f06a42e4.g:GaussRun/inbrowser-magnets~o:mulihost.0rs.org~a:wORW4SjjOS9msz1kbg7GfdggSb8gEz0u1UL6q3-bT4I~i:58367710dcbb6891071f9133332a8624b44e8c55b351efff700666f79bb31f52
 
 ### Magnet Notes
 
@@ -137,6 +140,7 @@ Posts link to each other by hash, so the link graph is acyclic: the index links 
 - jsDelivr: https://cdn.jsdelivr.net/gh/GaussRun/inbrowser-magnets@main/h/58367710dcbb6891071f9133332a8624b44e8c55b351efff700666f79bb31f52.md
 - Statically: https://cdn.statically.io/gh/GaussRun/inbrowser-magnets/main/h/58367710dcbb6891071f9133332a8624b44e8c55b351efff700666f79bb31f52.md
 - Arweave: https://arweave.net/raw/423TCsA0Qx05hM_Qq7r1qqxV5QutpSztzdgr8Dda35Q
+- reader link: https://mulihost.0rs.org/@gaussrun/magnet-notes#v1.58367710dcbb6891071f9133332a8624b44e8c55b351efff700666f79bb31f52.5cedf17233b099062a5c68724d24b0a42fe5be22c779553debd23fc3f06a42e4.g:GaussRun/inbrowser-magnets~o:mulihost.0rs.org~a:423TCsA0Qx05hM_Qq7r1qqxV5QutpSztzdgr8Dda35Q
 
 ### Why IPFS is last
 
@@ -150,6 +154,7 @@ Posts link to each other by hash, so the link graph is acyclic: the index links 
 - jsDelivr: https://cdn.jsdelivr.net/gh/GaussRun/inbrowser-magnets@main/h/a60b5f550507b99fcc58688870bb6562e45f9329da5c8fa933c08bc584e6b55f.md
 - Statically: https://cdn.statically.io/gh/GaussRun/inbrowser-magnets/main/h/a60b5f550507b99fcc58688870bb6562e45f9329da5c8fa933c08bc584e6b55f.md
 - Arweave: https://arweave.net/raw/wRrlHblLG0ItD-H2CX3tTvZSJkn4Yd_5t5uBk-eMiVI
+- reader link: https://mulihost.0rs.org/@gaussrun/magnet-notes#v1.a60b5f550507b99fcc58688870bb6562e45f9329da5c8fa933c08bc584e6b55f.5cedf17233b099062a5c68724d24b0a42fe5be22c779553debd23fc3f06a42e4.g:GaussRun/inbrowser-magnets~o:mulihost.0rs.org~a:wRrlHblLG0ItD-H2CX3tTvZSJkn4Yd_5t5uBk-eMiVI~i:58367710dcbb6891071f9133332a8624b44e8c55b351efff700666f79bb31f52
 
 ### How the link format works
 
@@ -163,6 +168,7 @@ Posts link to each other by hash, so the link graph is acyclic: the index links 
 - jsDelivr: https://cdn.jsdelivr.net/gh/GaussRun/inbrowser-magnets@main/h/5b9263cbfcc93c7222b1459a781f871e335adf7444e2ddf21c4e4dded1ee2de5.md
 - Statically: https://cdn.statically.io/gh/GaussRun/inbrowser-magnets/main/h/5b9263cbfcc93c7222b1459a781f871e335adf7444e2ddf21c4e4dded1ee2de5.md
 - Arweave: https://arweave.net/raw/JTejynd8YtaOhEmvUpvvm_EjZC855OnBS3JC7GMA9ho
+- reader link: https://mulihost.0rs.org/@gaussrun/magnet-notes#v1.5b9263cbfcc93c7222b1459a781f871e335adf7444e2ddf21c4e4dded1ee2de5.5cedf17233b099062a5c68724d24b0a42fe5be22c779553debd23fc3f06a42e4.g:GaussRun/inbrowser-magnets~o:mulihost.0rs.org~a:JTejynd8YtaOhEmvUpvvm_EjZC855OnBS3JC7GMA9ho~i:58367710dcbb6891071f9133332a8624b44e8c55b351efff700666f79bb31f52
 
 ### Nostr relays and the 64 KB limit
 
@@ -176,6 +182,7 @@ Posts link to each other by hash, so the link graph is acyclic: the index links 
 - jsDelivr: https://cdn.jsdelivr.net/gh/GaussRun/inbrowser-magnets@main/h/ba49920232c357ae703feee8e049a1b07cbc391487c3bb5bf7b6dfefe9362aa9.md
 - Statically: https://cdn.statically.io/gh/GaussRun/inbrowser-magnets/main/h/ba49920232c357ae703feee8e049a1b07cbc391487c3bb5bf7b6dfefe9362aa9.md
 - Arweave: https://arweave.net/raw/RDBCngEwz5dEII1lwcOjtzulU20CuDkPCcNAxb3B4K0
+- reader link: https://mulihost.0rs.org/@gaussrun/magnet-notes#v1.ba49920232c357ae703feee8e049a1b07cbc391487c3bb5bf7b6dfefe9362aa9.5cedf17233b099062a5c68724d24b0a42fe5be22c779553debd23fc3f06a42e4.g:GaussRun/inbrowser-magnets~o:mulihost.0rs.org~a:RDBCngEwz5dEII1lwcOjtzulU20CuDkPCcNAxb3B4K0~i:58367710dcbb6891071f9133332a8624b44e8c55b351efff700666f79bb31f52
 
 ### Why one https link cannot survive its host
 
@@ -189,6 +196,7 @@ Posts link to each other by hash, so the link graph is acyclic: the index links 
 - jsDelivr: https://cdn.jsdelivr.net/gh/GaussRun/inbrowser-magnets@main/h/bd1a16da7322254332a1bf541f3024267347635aa059c56533ef7ccb56cbfff2.md
 - Statically: https://cdn.statically.io/gh/GaussRun/inbrowser-magnets/main/h/bd1a16da7322254332a1bf541f3024267347635aa059c56533ef7ccb56cbfff2.md
 - Arweave: https://arweave.net/raw/Lnl7IK9wRR2qRWxJkTOQvbCBzWmJa9nNMAO70qTz7Fs
+- reader link: https://mulihost.0rs.org/@gaussrun/magnet-notes#v1.bd1a16da7322254332a1bf541f3024267347635aa059c56533ef7ccb56cbfff2.5cedf17233b099062a5c68724d24b0a42fe5be22c779553debd23fc3f06a42e4.g:GaussRun/inbrowser-magnets~o:mulihost.0rs.org~a:Lnl7IK9wRR2qRWxJkTOQvbCBzWmJa9nNMAO70qTz7Fs~i:58367710dcbb6891071f9133332a8624b44e8c55b351efff700666f79bb31f52
 
 ### dns (image)
 
