@@ -10,8 +10,11 @@ Source, tests and the publisher script live in a separate repository. The posts 
 
 | Path | What |
 | --- | --- |
+| `index.html` | the reader, one self-contained file (the loader) |
+| `nostr.js`, `bluesky.js`, `arweave-graphql.js` | optional source modules the reader imports on demand |
 | `h/<sha256>.md` | a post, named by the sha256 of its exact bytes |
-| `h/<sha256>.png` | an image referenced from a post as `sha256:<hex>` |
+| `h/<sha256>` | an image referenced from a post as `sha256:<hex>`; the reader asks for this extension-less name |
+| `h/<sha256>.png` | the same image with its extension, for people |
 | `.nojekyll` | tells GitHub Pages to serve files as they are |
 | `.github/workflows/pages.yml` | deploys the repository root to GitHub Pages |
 
@@ -67,7 +70,15 @@ Source, tests and the publisher script live in a separate repository. The posts 
 https://gaussrun.github.io/inbrowser-magnets/#v1.<sha256 hex>[.<author nostr pubkey>][.<hints>]
 ```
 
-Hints are `~` separated `code:value` pairs: `g:user/repo` for a GitHub repository, `o:host/base` for the owner host, `a:<txid>` for an Arweave transaction, `s:host` for an extra Blossom server, `n:host` for an extra Nostr relay, `t:<template>` for any URL template with `*` in place of the hash.
+Hints are `~` separated `code:value` pairs: `g:user/repo` for a GitHub repository, `o:host/base` for the owner host, `a:<txid>` for an Arweave transaction, `s:host` for an extra Blossom server, `n:host` for an extra Nostr relay, `t:<template>` for any URL template with `*` in place of the hash, `u:<url>` for one literal URL, `ns:<npub>` for an nsite under that key, `b:<did>[/<blobcid>]` for a blob on an AT Protocol PDS. Without any hint the reader still asks the built-in Blossom servers, Software Heritage, Nostr relays and the Arweave index by hash alone.
+
+Open the test posts through this copy of the reader:
+
+- https://gaussrun.github.io/inbrowser-magnets/#v1.312453b85dbbece038586643c5cb220e8925b8a1700d121b37f4a9acdd70fcd0.g:GaussRun/inbrowser-magnets~o:mulihost.0rs.org
+- https://gaussrun.github.io/inbrowser-magnets/#v1.61999163518d8138ce1ce8dafbb0d26d0de6fa15f9beecfcf432543e786e6627.g:GaussRun/inbrowser-magnets~o:mulihost.0rs.org
+- https://gaussrun.github.io/inbrowser-magnets/#v1.28f34b8628eaf7f194dc8705cd2e86d4a36e48c9e9177130861051091f9f57d8.g:GaussRun/inbrowser-magnets~o:mulihost.0rs.org
+
+The same reader is served at https://mulihost.0rs.org/ (home host), on the nsite gateways under `npub1c89g65emcv4ggxmqjcawxx0fwv943kn9rz307n9vvcnwe2xtu6lq0ma47a` and on Arweave; the private source repository's report lists every copy.
 
 ## License
 
