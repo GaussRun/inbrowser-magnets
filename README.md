@@ -12,6 +12,7 @@ Source, tests and the publisher script live in a separate repository. The posts 
 | --- | --- |
 | `h/<sha256>.md` | a post, named by the sha256 of its exact bytes |
 | `h/<sha256>.png` | an image referenced from a post as `sha256:<hex>` |
+| `404.html` | a byte copy of `index.html`, so readable-path links such as `/@gaussrun/hello-magnets#v1.<hex>` run the reader on GitHub Pages (served with status 404; the loader reads only the fragment) |
 | `.nojekyll` | tells GitHub Pages to serve files as they are |
 | `.github/workflows/pages.yml` | deploys the repository root to GitHub Pages |
 
