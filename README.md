@@ -26,7 +26,7 @@ Source, tests and the publisher script live in a separate repository. The posts 
 - home: https://gaussrun.github.io/inbrowser-magnets/h/312453b85dbbece038586643c5cb220e8925b8a1700d121b37f4a9acdd70fcd0.md
 - GitHub raw: https://raw.githubusercontent.com/GaussRun/inbrowser-magnets/main/h/312453b85dbbece038586643c5cb220e8925b8a1700d121b37f4a9acdd70fcd0.md
 - jsDelivr: https://cdn.jsdelivr.net/gh/GaussRun/inbrowser-magnets@main/h/312453b85dbbece038586643c5cb220e8925b8a1700d121b37f4a9acdd70fcd0.md
-- Statically: https://cdn.statically.io/gh/GaussRun/inbrowser-magnets/main/h/312453b85dbbece038586643c5cb220e8925b8a1700d121b37f4a9acdd70fcd0.md
+- Statically: https://cdn.statically.io/gh/GaussRun/inbrowser-magnets@main/h/312453b85dbbece038586643c5cb220e8925b8a1700d121b37f4a9acdd70fcd0.md
 - Arweave: https://arweave.net/raw/JpCbBtEL62oENawwQnAT5r-bw7jETYeP55s2KLqGacA
 - reader link: https://gaussrun.github.io/inbrowser-magnets/@gaussrun/hello-magnets#v1.312453b85dbbece038586643c5cb220e8925b8a1700d121b37f4a9acdd70fcd0.5cedf17233b099062a5c68724d24b0a42fe5be22c779553debd23fc3f06a42e4.g:GaussRun/inbrowser-magnets~o:gaussrun.github.io/inbrowser-magnets~a:JpCbBtEL62oENawwQnAT5r-bw7jETYeP55s2KLqGacA
 
@@ -39,7 +39,7 @@ Source, tests and the publisher script live in a separate repository. The posts 
 - home: https://gaussrun.github.io/inbrowser-magnets/h/61999163518d8138ce1ce8dafbb0d26d0de6fa15f9beecfcf432543e786e6627.md
 - GitHub raw: https://raw.githubusercontent.com/GaussRun/inbrowser-magnets/main/h/61999163518d8138ce1ce8dafbb0d26d0de6fa15f9beecfcf432543e786e6627.md
 - jsDelivr: https://cdn.jsdelivr.net/gh/GaussRun/inbrowser-magnets@main/h/61999163518d8138ce1ce8dafbb0d26d0de6fa15f9beecfcf432543e786e6627.md
-- Statically: https://cdn.statically.io/gh/GaussRun/inbrowser-magnets/main/h/61999163518d8138ce1ce8dafbb0d26d0de6fa15f9beecfcf432543e786e6627.md
+- Statically: https://cdn.statically.io/gh/GaussRun/inbrowser-magnets@main/h/61999163518d8138ce1ce8dafbb0d26d0de6fa15f9beecfcf432543e786e6627.md
 - Arweave: https://arweave.net/raw/Blj4iEBiBZMrcVjWC75n2j_FmMCu2n408dZSxeLRKD8
 - reader link: https://gaussrun.github.io/inbrowser-magnets/@gaussrun/medium-post#v1.61999163518d8138ce1ce8dafbb0d26d0de6fa15f9beecfcf432543e786e6627.5cedf17233b099062a5c68724d24b0a42fe5be22c779553debd23fc3f06a42e4.g:GaussRun/inbrowser-magnets~o:gaussrun.github.io/inbrowser-magnets~a:Blj4iEBiBZMrcVjWC75n2j_FmMCu2n408dZSxeLRKD8
 
@@ -52,7 +52,7 @@ Source, tests and the publisher script live in a separate repository. The posts 
 - home: https://gaussrun.github.io/inbrowser-magnets/h/28f34b8628eaf7f194dc8705cd2e86d4a36e48c9e9177130861051091f9f57d8.md
 - GitHub raw: https://raw.githubusercontent.com/GaussRun/inbrowser-magnets/main/h/28f34b8628eaf7f194dc8705cd2e86d4a36e48c9e9177130861051091f9f57d8.md
 - jsDelivr: https://cdn.jsdelivr.net/gh/GaussRun/inbrowser-magnets@main/h/28f34b8628eaf7f194dc8705cd2e86d4a36e48c9e9177130861051091f9f57d8.md
-- Statically: https://cdn.statically.io/gh/GaussRun/inbrowser-magnets/main/h/28f34b8628eaf7f194dc8705cd2e86d4a36e48c9e9177130861051091f9f57d8.md
+- Statically: https://cdn.statically.io/gh/GaussRun/inbrowser-magnets@main/h/28f34b8628eaf7f194dc8705cd2e86d4a36e48c9e9177130861051091f9f57d8.md
 - Arweave: https://arweave.net/raw/6ItnT2Xn4-BrG5OZv702Z-sE2rmAligSW35ifBko-p8
 - reader link: https://gaussrun.github.io/inbrowser-magnets/@gaussrun/large-post#v1.28f34b8628eaf7f194dc8705cd2e86d4a36e48c9e9177130861051091f9f57d8.5cedf17233b099062a5c68724d24b0a42fe5be22c779553debd23fc3f06a42e4.g:GaussRun/inbrowser-magnets~o:gaussrun.github.io/inbrowser-magnets~a:6ItnT2Xn4-BrG5OZv702Z-sE2rmAligSW35ifBko-p8
 
@@ -65,7 +65,7 @@ Source, tests and the publisher script live in a separate repository. The posts 
 - home: https://gaussrun.github.io/inbrowser-magnets/h/95c8b6c778a3566aeb03e042415ceda09df2cd5f8dfb3eba5c081b104fbeffae.png
 - GitHub raw: https://raw.githubusercontent.com/GaussRun/inbrowser-magnets/main/h/95c8b6c778a3566aeb03e042415ceda09df2cd5f8dfb3eba5c081b104fbeffae.png
 - jsDelivr: https://cdn.jsdelivr.net/gh/GaussRun/inbrowser-magnets@main/h/95c8b6c778a3566aeb03e042415ceda09df2cd5f8dfb3eba5c081b104fbeffae.png
-- Statically: https://cdn.statically.io/gh/GaussRun/inbrowser-magnets/main/h/95c8b6c778a3566aeb03e042415ceda09df2cd5f8dfb3eba5c081b104fbeffae.png
+- Statically: https://cdn.statically.io/gh/GaussRun/inbrowser-magnets@main/h/95c8b6c778a3566aeb03e042415ceda09df2cd5f8dfb3eba5c081b104fbeffae.png
 - Arweave: https://arweave.net/raw/nmZGxYEtK72IDl1tHVaSR3P_a2kxPsCU5nH0tBzX3yY
 
 ## Link format
