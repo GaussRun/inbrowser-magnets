@@ -97,6 +97,7 @@ Posts link to each other by hash, so the link graph is acyclic: the index links 
 - GitHub raw: https://raw.githubusercontent.com/GaussRun/inbrowser-magnets/main/h/f8041baad05bbff69e815751e7a731312febe4c3d2e26fe51ff112e2058b1644.md
 - jsDelivr: https://cdn.jsdelivr.net/gh/GaussRun/inbrowser-magnets@main/h/f8041baad05bbff69e815751e7a731312febe4c3d2e26fe51ff112e2058b1644.md
 - Statically: https://cdn.statically.io/gh/GaussRun/inbrowser-magnets/main/h/f8041baad05bbff69e815751e7a731312febe4c3d2e26fe51ff112e2058b1644.md
+- Arweave: https://arweave.net/raw/lXo2emGJA5UiTt-XviZVznEGRtJBTOIZtnnCSHMQFeI
 
 ### Blossom servers that take text
 
@@ -109,6 +110,7 @@ Posts link to each other by hash, so the link graph is acyclic: the index links 
 - GitHub raw: https://raw.githubusercontent.com/GaussRun/inbrowser-magnets/main/h/b1ab521491a8fd506c27dd599d41862604873e761eed31525d9f6a0b7e7dbb16.md
 - jsDelivr: https://cdn.jsdelivr.net/gh/GaussRun/inbrowser-magnets@main/h/b1ab521491a8fd506c27dd599d41862604873e761eed31525d9f6a0b7e7dbb16.md
 - Statically: https://cdn.statically.io/gh/GaussRun/inbrowser-magnets/main/h/b1ab521491a8fd506c27dd599d41862604873e761eed31525d9f6a0b7e7dbb16.md
+- Arweave: https://arweave.net/raw/v5p8HjgpaL_cUV04FUejy2ZkaH1MqbmLpx_9VwD34Nc
 
 ### What we measured about browser DNS failover
 
@@ -121,6 +123,7 @@ Posts link to each other by hash, so the link graph is acyclic: the index links 
 - GitHub raw: https://raw.githubusercontent.com/GaussRun/inbrowser-magnets/main/h/cc1b13450bb6b0338d89018eba9a3a5e5d6940a1a1305d361f0d0e8ef84f9039.md
 - jsDelivr: https://cdn.jsdelivr.net/gh/GaussRun/inbrowser-magnets@main/h/cc1b13450bb6b0338d89018eba9a3a5e5d6940a1a1305d361f0d0e8ef84f9039.md
 - Statically: https://cdn.statically.io/gh/GaussRun/inbrowser-magnets/main/h/cc1b13450bb6b0338d89018eba9a3a5e5d6940a1a1305d361f0d0e8ef84f9039.md
+- Arweave: https://arweave.net/raw/wORW4SjjOS9msz1kbg7GfdggSb8gEz0u1UL6q3-bT4I
 
 ### Magnet Notes
 
@@ -133,6 +136,7 @@ Posts link to each other by hash, so the link graph is acyclic: the index links 
 - GitHub raw: https://raw.githubusercontent.com/GaussRun/inbrowser-magnets/main/h/58367710dcbb6891071f9133332a8624b44e8c55b351efff700666f79bb31f52.md
 - jsDelivr: https://cdn.jsdelivr.net/gh/GaussRun/inbrowser-magnets@main/h/58367710dcbb6891071f9133332a8624b44e8c55b351efff700666f79bb31f52.md
 - Statically: https://cdn.statically.io/gh/GaussRun/inbrowser-magnets/main/h/58367710dcbb6891071f9133332a8624b44e8c55b351efff700666f79bb31f52.md
+- Arweave: https://arweave.net/raw/423TCsA0Qx05hM_Qq7r1qqxV5QutpSztzdgr8Dda35Q
 
 ### Why IPFS is last
 
@@ -145,6 +149,7 @@ Posts link to each other by hash, so the link graph is acyclic: the index links 
 - GitHub raw: https://raw.githubusercontent.com/GaussRun/inbrowser-magnets/main/h/a60b5f550507b99fcc58688870bb6562e45f9329da5c8fa933c08bc584e6b55f.md
 - jsDelivr: https://cdn.jsdelivr.net/gh/GaussRun/inbrowser-magnets@main/h/a60b5f550507b99fcc58688870bb6562e45f9329da5c8fa933c08bc584e6b55f.md
 - Statically: https://cdn.statically.io/gh/GaussRun/inbrowser-magnets/main/h/a60b5f550507b99fcc58688870bb6562e45f9329da5c8fa933c08bc584e6b55f.md
+- Arweave: https://arweave.net/raw/wRrlHblLG0ItD-H2CX3tTvZSJkn4Yd_5t5uBk-eMiVI
 
 ### How the link format works
 
@@ -157,6 +162,7 @@ Posts link to each other by hash, so the link graph is acyclic: the index links 
 - GitHub raw: https://raw.githubusercontent.com/GaussRun/inbrowser-magnets/main/h/5b9263cbfcc93c7222b1459a781f871e335adf7444e2ddf21c4e4dded1ee2de5.md
 - jsDelivr: https://cdn.jsdelivr.net/gh/GaussRun/inbrowser-magnets@main/h/5b9263cbfcc93c7222b1459a781f871e335adf7444e2ddf21c4e4dded1ee2de5.md
 - Statically: https://cdn.statically.io/gh/GaussRun/inbrowser-magnets/main/h/5b9263cbfcc93c7222b1459a781f871e335adf7444e2ddf21c4e4dded1ee2de5.md
+- Arweave: https://arweave.net/raw/JTejynd8YtaOhEmvUpvvm_EjZC855OnBS3JC7GMA9ho
 
 ### Nostr relays and the 64 KB limit
 
@@ -169,6 +175,7 @@ Posts link to each other by hash, so the link graph is acyclic: the index links 
 - GitHub raw: https://raw.githubusercontent.com/GaussRun/inbrowser-magnets/main/h/ba49920232c357ae703feee8e049a1b07cbc391487c3bb5bf7b6dfefe9362aa9.md
 - jsDelivr: https://cdn.jsdelivr.net/gh/GaussRun/inbrowser-magnets@main/h/ba49920232c357ae703feee8e049a1b07cbc391487c3bb5bf7b6dfefe9362aa9.md
 - Statically: https://cdn.statically.io/gh/GaussRun/inbrowser-magnets/main/h/ba49920232c357ae703feee8e049a1b07cbc391487c3bb5bf7b6dfefe9362aa9.md
+- Arweave: https://arweave.net/raw/RDBCngEwz5dEII1lwcOjtzulU20CuDkPCcNAxb3B4K0
 
 ### Why one https link cannot survive its host
 
@@ -181,6 +188,7 @@ Posts link to each other by hash, so the link graph is acyclic: the index links 
 - GitHub raw: https://raw.githubusercontent.com/GaussRun/inbrowser-magnets/main/h/bd1a16da7322254332a1bf541f3024267347635aa059c56533ef7ccb56cbfff2.md
 - jsDelivr: https://cdn.jsdelivr.net/gh/GaussRun/inbrowser-magnets@main/h/bd1a16da7322254332a1bf541f3024267347635aa059c56533ef7ccb56cbfff2.md
 - Statically: https://cdn.statically.io/gh/GaussRun/inbrowser-magnets/main/h/bd1a16da7322254332a1bf541f3024267347635aa059c56533ef7ccb56cbfff2.md
+- Arweave: https://arweave.net/raw/Lnl7IK9wRR2qRWxJkTOQvbCBzWmJa9nNMAO70qTz7Fs
 
 ### dns (image)
 
@@ -193,6 +201,7 @@ Posts link to each other by hash, so the link graph is acyclic: the index links 
 - GitHub raw: https://raw.githubusercontent.com/GaussRun/inbrowser-magnets/main/h/6a767a3179cb6c41deeccd66f4fc8758b5d42c811f16ff3c74e50f42e0491e37.svg
 - jsDelivr: https://cdn.jsdelivr.net/gh/GaussRun/inbrowser-magnets@main/h/6a767a3179cb6c41deeccd66f4fc8758b5d42c811f16ff3c74e50f42e0491e37.svg
 - Statically: https://cdn.statically.io/gh/GaussRun/inbrowser-magnets/main/h/6a767a3179cb6c41deeccd66f4fc8758b5d42c811f16ff3c74e50f42e0491e37.svg
+- Arweave: https://arweave.net/raw/aqmPvUgHJieF2sTcEqzwI9irRy2P-KnimQd9eoaJek8
 
 ### hosts (image)
 
@@ -205,6 +214,7 @@ Posts link to each other by hash, so the link graph is acyclic: the index links 
 - GitHub raw: https://raw.githubusercontent.com/GaussRun/inbrowser-magnets/main/h/5031481b7bbce894c1926bde714a945b19a97d797e795342ff2d2654af214ae3.svg
 - jsDelivr: https://cdn.jsdelivr.net/gh/GaussRun/inbrowser-magnets@main/h/5031481b7bbce894c1926bde714a945b19a97d797e795342ff2d2654af214ae3.svg
 - Statically: https://cdn.statically.io/gh/GaussRun/inbrowser-magnets/main/h/5031481b7bbce894c1926bde714a945b19a97d797e795342ff2d2654af214ae3.svg
+- Arweave: https://arweave.net/raw/FIFPDKOAExRwm0B8yX3dacBb470bVI7I4Zcw5dPDSZ4
 
 ### race (image)
 
@@ -217,6 +227,7 @@ Posts link to each other by hash, so the link graph is acyclic: the index links 
 - GitHub raw: https://raw.githubusercontent.com/GaussRun/inbrowser-magnets/main/h/8dafe1b323326059495fc98751b1ef64e2ce1deec57703c35b72f901dc4e49ef.svg
 - jsDelivr: https://cdn.jsdelivr.net/gh/GaussRun/inbrowser-magnets@main/h/8dafe1b323326059495fc98751b1ef64e2ce1deec57703c35b72f901dc4e49ef.svg
 - Statically: https://cdn.statically.io/gh/GaussRun/inbrowser-magnets/main/h/8dafe1b323326059495fc98751b1ef64e2ce1deec57703c35b72f901dc4e49ef.svg
+- Arweave: https://arweave.net/raw/gL7nHkry0ybby2PUzRqQglB8D0ObHxCVKruQ3-83CqU
 
 ## Link format
 
