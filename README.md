@@ -12,6 +12,8 @@ Source, tests and the publisher script live in a separate repository. The posts 
 | --- | --- |
 | `h/<sha256>.md` | a post, named by the sha256 of its exact bytes |
 | `h/<sha256>.png` | an image referenced from a post as `sha256:<hex>` |
+| `debug.html` | the debugger: give it the same `#v1.` link and it lists every host the reader would try, runs them all to completion and shows status, timing, bytes and sha256 per host, with an export; `https://gaussrun.github.io/inbrowser-magnets/debug.html#v1.<hex>` or `https://mulihost.0rs.org/debug.html#v1.<hex>` |
+| `nostr.js`, `bluesky.js`, `arweave-graphql.js` | the reader's lazily loaded source modules (Nostr relays, Bluesky PDS blobs, Arweave GraphQL lookup), shared with the debugger |
 | `404.html` | a byte copy of `index.html`, so readable-path links such as `/@gaussrun/hello-magnets#v1.<hex>` run the reader on GitHub Pages (served with status 404; the loader reads only the fragment) |
 | `.nojekyll` | tells GitHub Pages to serve files as they are |
 | `.github/workflows/pages.yml` | deploys the repository root to GitHub Pages |
